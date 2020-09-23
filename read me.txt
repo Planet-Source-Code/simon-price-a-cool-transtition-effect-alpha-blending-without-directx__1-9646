@@ -1,0 +1,14 @@
+Cool Transition - By Simon Price - 10/7/00
+
+About :
+
+I've seen a load of special effects ideas on www.planet-source-code.com and so I thought of a different idea for a change (since I had seen alot of similar ideas there). I'm not saying that I invented this technique, I think the proper  name for it is alpha-blending. But all the code here is my own work, I have not seen any source code that does this. I got the idea from the fact that DirectX does this and I was wondering if it were possible in pure VB code wothout DirectX without a stupid amount of loading time. Well, it is possible, but (there's always a catch) to do it with any speed, I had to make memory buffers and lookup tables and it all takes 1.44 MB RAM! But that's no problem for most computers nowadays so it's OK.
+
+Disclaimer :
+
+Hey, this is free, so if it makes your computer explode or anything else you don't like then tough. No guarantees then.
+
+Credits :
+
+Erm, by me, Simon Price, email me at Si@VBgames.co.uk and visit my website (currently under construction after running out of web space) at www.VBgames.co.uk
+
